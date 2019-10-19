@@ -1,2 +1,2 @@
 # cremopy
-My Python repo
+My Python data analysis repo
